@@ -5,6 +5,7 @@ This repository contains coursework-based software testing artifacts and practic
 ## Contents
 - Test Cases
 - Black Box Testing
+- White Box Testing
 - API Testing
 - Bug Reports
 - Automation Testing
